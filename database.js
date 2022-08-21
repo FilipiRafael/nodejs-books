@@ -4,7 +4,7 @@ const books = [
         id: 1,
         nome: 'Digital Minimalism',
         autor: 'Call Newport',
-        categoria: 'Produtividade e estilo de vida',
+        categoria: 'Tecnologia',
         paginas: 254,
         recomenda: false,
         leu: false
@@ -13,7 +13,7 @@ const books = [
         id: 2,
         nome: 'The minimalism',
         autor: 'Call Newport',
-        categoria: 'Produtividade e estilo de vida',
+        categoria: 'Tecnologia',
         paginas: 320,
         recomenda: true,
         leu: true
@@ -22,7 +22,7 @@ const books = [
         id: 3,
         nome: 'Digital Market',
         autor: 'Call Newport',
-        categoria: 'Produtividade e estilo de vida',
+        categoria: 'Tecnologia',
         paginas: 148,
         recomenda: false,
         leu: false
